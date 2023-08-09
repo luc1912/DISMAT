@@ -1,2 +1,2 @@
 # DISMAT
-labosi iz diskretne matematike
+discrete mathematics tasks
