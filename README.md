@@ -1,11 +1,12 @@
 # DISMAT
-discrete mathematics 
+laboratorijske vježbe iz predmeta "Diskretna matematika"
 
 # lab1
-solving of linear equation system using recursion
+rješavanje sustava linearnih jednadžbi korištenjem rekurzije
 
 # lab2
-determination whether the graph is connected and/or hamiltonian
+
+određivanje je li graf povezan i/ili hamiltonovski
 
 # lab3
-determining the prufer code of the minimum spanning tree of a graph 
+određivanje pruferovog koda minimalnog razapinjućeg stabla grafa
